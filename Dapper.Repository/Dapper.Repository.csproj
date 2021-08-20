@@ -7,6 +7,8 @@
         <PackageLicenseUrl>https://licenses.nuget.org/Apache-2.0</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/Rhexis/Dapper.Repository</RepositoryUrl>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <AssemblyName>Rhexis.Dapper.Repository</AssemblyName>
+        <RootNamespace>Rhexis.Dapper.Repository</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
