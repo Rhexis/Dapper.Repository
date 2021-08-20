@@ -1,4 +1,6 @@
 # Dapper.Repository
+This is not an official Dapper project!
+
 A simple light weight Repository wrapper around Dapper & Dapper.Contrib.
 
 ## Configuration
